@@ -21,3 +21,11 @@ Algorithm-Learning
 │   ├── LanQiao
 │   └── CSP
 └── Notes
+
+## 日常 Git 流程
+
+1. 在 VS Code 中编写并测试代码
+2. 使用 `git status` 检查修改
+3. 使用 `git add` 选择本次要提交的文件
+4. 使用 `git commit` 保存一个本地版本
+5. 使用 `git push` 上传到 GitHub
