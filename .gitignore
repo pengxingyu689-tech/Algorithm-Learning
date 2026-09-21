@@ -1,0 +1,14 @@
+# Java 编译产物
+*.class
+out/
+bin/
+target/
+
+# 编辑器和 IDE 配置
+.vscode/
+.idea/
+*.iml
+
+# 操作系统生成的文件
+Thumbs.db
+.DS_Store
